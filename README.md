@@ -55,7 +55,21 @@ Synthetic banking dataset containing approximately:
 
 ## Dashboard Preview
 
-*Screenshots will be added here.*
+
+## Executive Overview
+![Executive Overview](images/executive-overview.png)
+
+## Customer Analytics
+![Customer Analytics](images/customer-analytics.png)
+
+## Transaction Analytics
+![Transaction Analytics](images/transaction-analytics.png)
+
+## Campaign Analytics
+![Campaign Analytics](images/campaign-analytics.png)
+
+## Loan Analytics
+![Loan Analytics](images/loan-analytics.png)
 
 ---
 

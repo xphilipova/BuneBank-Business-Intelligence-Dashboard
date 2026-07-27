@@ -16,3 +16,9 @@ Successfully completed the SQL Academy course covering:
 - Views
 - Indexes
 - Constraints
+
+## SQL Certificate
+
+[View full PDF](Certificates/sql-certificate.pdf)
+
+![SQL Academy Certificate](Certificates/sql-certificate.png)

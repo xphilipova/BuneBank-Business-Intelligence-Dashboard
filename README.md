@@ -31,7 +31,7 @@ The dashboard provides executive-level insights into customer behavior, transact
 ## Key Features
 
 - Multi-page interactive dashboard
-- 40+ DAX measures and KPIs
+- 50+ DAX measures and KPIs
 - Star-schema data model
 - Customer segmentation
 - Loan portfolio analysis

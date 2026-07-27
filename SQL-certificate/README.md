@@ -19,8 +19,12 @@ Successfully completed the SQL Academy course covering:
 
 ## SQL Certificate
 
-[View full PDF](SQL-certificate/sql-certificate.pdf)
+<p align="center">
+  <a href="./sql-certificate.pdf">
+    <img src="./sql-certificate.png"
+         alt="SQL Academy Certificate"
+         width="900">
+  </a>
+</p>
 
-<a href="    SQL-certificate/sql-certificate.pdf">
-  <img src="    SQL-certificate/sql-certificate.png" alt="SQL Academy Certificate" width="850">
-</a>
+> Click the certificate to view the full PDF.

@@ -20,3 +20,5 @@ Successfully completed the SQL Academy course covering:
 ## SQL Certificate
 
 [View full PDF](SQL-certificate/sql-certificate.pdf)
+
+![SQL Academy Certificate](SQL-certificate/sql-certificate.png)
